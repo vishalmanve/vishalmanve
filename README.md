@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishal Manve</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<image align="right" alt="coding" widht="400" src"https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Famrkamal1993&psig=AOvVaw0u0lMC75hkJQZKPGS4UmW_&ust=1707288994678000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMiEr6KRloQDFQAAAAAdAAAAABAQ">
+<img src="https://play-lh.googleusercontent.com/WF3ImgeEUnWvxQZOxlNAVpQnBdVd81DC4r3I3X4YCJP1efQ6kuAvQtTcLCDbHmOJ6nU=w180" alt="WAJ" height="140" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalmanve&label=Profile%20views&color=0e75b6&style=flat" alt="vishalmanve" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishalmanve" alt="vishalmanve" /></a> </p>
