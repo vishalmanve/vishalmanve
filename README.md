@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishalmanve" alt="vishalmanve" /></a> </p>
 
-- 🔭 I’m currently working on **Restaurant Management**
+- 🔭 I’m currently working in **Simplyphi India**
 
 - 🌱 I’m currently learning **AWS,cloud computing,DSA**
 
